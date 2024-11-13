@@ -29,6 +29,7 @@ I use a variety of languages for different problems, including:
 
 Each solution is placed in a folder corresponding to the problem number or the problem's topic. For example:
 
+```
 LeetCode
 |-- 1. Two Sum (Easy)
 |   |-- two_sum.py
@@ -37,6 +38,7 @@ LeetCode
 |   |-- add_two_numbers.py
 |-- 3. Longest Substring Without Repeating Characters (Medium)
 |   |-- longest_substring.js
+```
 
 
 ## Contributing
